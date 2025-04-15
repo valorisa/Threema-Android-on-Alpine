@@ -1,5 +1,6 @@
 # Project Structure
-'''bash
+
+```text
 .
 ├── License.md # Project license (GPL-3.0), author and project info
 ├── README.md # Build instructions and project overview
@@ -13,4 +14,4 @@
 ├── settings.gradle # Gradle project settings
 ├── build.gradle # Main Gradle build configuration
 └── ... # Other files and folders as needed
-'''
+```
